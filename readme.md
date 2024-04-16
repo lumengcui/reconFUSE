@@ -26,6 +26,10 @@ in the MathWorks Documentation Center.
 
 Run ```runFUSE``` using a command prompt.
 
-## 3. NOTE: The GPU NUFFT option might not be available to all users depending on their CUDA hardware and driver.
+Alternatively, double click on ```runFUSE.exe```
+
+## 3. NOTE 
+
+The GPU NUFFT option might not be available to all users depending on their CUDA hardware and driver.
 
 
